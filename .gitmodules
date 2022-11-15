@@ -1,0 +1,3 @@
+[submodule "fantasy-epl-dashboard"]
+	path = fantasy-epl-dashboard
+	url = https://github.com/kradford7/fantasy-epl-dashboard
